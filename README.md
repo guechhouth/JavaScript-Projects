@@ -1,2 +1,2 @@
 # JavaScript-Projects
-JavaScript projects on freeCodeCamp
+JavaScript projects on freeCodeCamp by Guech
